@@ -15,4 +15,4 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aokp_whyred.mk
+    $(LOCAL_DIR)/baikalos_whyred.mk
